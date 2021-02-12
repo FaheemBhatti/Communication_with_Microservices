@@ -19,7 +19,9 @@ cd target
 java -jar Apple-0.0.1-SNAPSHOT.jar
 ```
 Our apple microservice is up on https://localhost:8082/devices
+
 Starting second service
+
 ```bash
 cd Samsung
 mvn install
